@@ -20,7 +20,7 @@ Welcome to the Live Weather Data Dashboard repository! This project provides a d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/live-weather-dashboard.git
+ [  git clone https://github.com/yourusername/live-weather-dashboard.git](https://github.com/aksharbisht2002/Live-Weather-Report-App)
    ```
 
 2. Navigate to the project directory:
